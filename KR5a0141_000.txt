@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:38:08.958110
+#+TITLE: 上清握中訣
+#+PROPERTY: DZID  DZ0140
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，2—897 三卷 洞真部玉訣類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
